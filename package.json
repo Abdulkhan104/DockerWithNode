@@ -1,8 +1,9 @@
 {
   "name": "node-hello",
   "version": "1.0.0",
-  "description": "",
+  "description": "Animated Node.js website for Veera Sir - DevOps Training",
   "main": "index.js",
+  "type": "commonjs",
   "scripts": {
     "start": "node index.js"
   },
@@ -10,11 +11,12 @@
     "type": "git",
     "url": "https://github.com/CloudTechDevOps/sample_nodejs_on_Ec2"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["nodejs", "devops", "training", "animated", "website", "Veera Sir"],
+  "author": "Veera Sir",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/CloudTechDevOps/sample_nodejs_on_Ec2"
+    "url": "https://github.com/CloudTechDevOps/sample_nodejs_on_Ec2/issues"
   },
-  "homepage": "https://github.com/CloudTechDevOps/sample_nodejs_on_Ec2"
+  "homepage": "https://github.com/CloudTechDevOps/sample_nodejs_on_Ec2",
+  "dependencies": {}
 }
